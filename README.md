@@ -2,6 +2,7 @@
 
 This code should represent the artwork created by Frieder Nake, and his album titled the Matrix Multiplications. This art project was designed to add our own
 general twist to early forms of digital art. 
+This art project uses p5.js
 
 I've added movement within the artwork and also created a collision aspect to it. All of the made work was coded
 from scratch, using the artwork only as an inspirational piece.
